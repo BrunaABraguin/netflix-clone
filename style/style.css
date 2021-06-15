@@ -172,4 +172,8 @@ main .description {
     width: 60%;
   }
 }
+
+section .owl-carousel .item {
+  cursor: pointer;
+}
 /*# sourceMappingURL=style.css.map */
